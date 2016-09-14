@@ -4,7 +4,7 @@
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Use the following format for entries: `[Name of thing](link) by Author name`.
+- Use the following format for entries: `[Name of thing](link) - optional description`.
 - New categories, or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
