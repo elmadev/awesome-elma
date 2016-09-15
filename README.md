@@ -1,7 +1,12 @@
 Awesome Elma [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ============
 
-A curated list of Elma community assets, projects, development resources, etc. Formatting inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+A curated list of Elma community assets, projects, development resources, etc.
+Format inspired by lists over at [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
+## Community
+- [Elma Online](http://elmaonline.net/) - the website of the patch enabling online play of Elasto Mania
+- [Mopolauta](http://mopolauta.moposite.com/) - the main discussion board
 
 ## Libraries
 - [Elma Python Library](https://github.com/sigvef/elma) - a library for manipulating Elasto Mania files
