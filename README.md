@@ -18,6 +18,7 @@ Format inspired by lists over at [sindresorhus/awesome](https://github.com/sindr
 ## Utilities
 - [Elmanager](https://gitlab.com/Smibu/elmanager) - a manager program written in C#, features include replay searching and viewing and a level editor
 - [YALE](http://janka.la/yale/) - a collaborative online level editor
+- [Elma Center](https://chrome.google.com/webstore/detail/elma-center/dbdcieepogbmfdakjepkbhfifddinmjc) - EOL battle notifier (Chrome extension)
 
 ## Discord
 - [botman](https://github.com/elmadev/botman) - multi-purpose Discord chat bot
