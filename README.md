@@ -8,12 +8,16 @@ Format inspired by lists over at [sindresorhus/awesome](https://github.com/sindr
 ## Community
 - [Elma Online](http://elmaonline.net/) - the website of the patch enabling online play of Elasto Mania
 - [Mopolauta](http://mopolauta.moposite.com/) - the main discussion board
+- [recsource.tv](http://www.recsource.tv/) - the YouTube of replays
+- [elmastats](http://stats.sshoyer.net/) - a statistics site
 
 ## Libraries
-- [Elma Python Library](https://github.com/sigvef/elma) - a library for manipulating Elasto Mania files
+- [Python](https://github.com/sigvef/elma) - a library for manipulating Elasto Mania files
+- [Rust](https://github.com/hexjelly/elma-rust) - a library for dealing with levels, reading and writing replays
 
 ## Utilities
 - [Elmanager](https://gitlab.com/Smibu/elmanager) - a manager program written in C#, features include replay searching and viewing and a level editor
+- [YALE](http://janka.la/yale/) - a collaborative online level editor
 
 ## Discord
 - [botman](https://github.com/elmadev/botman) - multi-purpose Discord chat bot
