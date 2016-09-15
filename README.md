@@ -2,6 +2,7 @@ Awesome Elma [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgree
 ============
 
 A curated list of Elma community assets, projects, development resources, etc.
+
 Format inspired by lists over at [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 ## Community
@@ -10,6 +11,9 @@ Format inspired by lists over at [sindresorhus/awesome](https://github.com/sindr
 
 ## Libraries
 - [Elma Python Library](https://github.com/sigvef/elma) - a library for manipulating Elasto Mania files
+
+## Utilities
+- [Elmanager](https://gitlab.com/Smibu/elmanager) - a manager program written in C#, features include replay searching and viewing and a level editor
 
 ## Discord
 - [botman](https://github.com/elmadev/botman) - multi-purpose Discord chat bot
