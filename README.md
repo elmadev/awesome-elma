@@ -16,6 +16,7 @@ Format inspired by lists over at [sindresorhus/awesome](https://github.com/sindr
 - [Node.js](https://github.com/elmadev/node-elma) - a library for reading and writing Elasto Mania files
 - [Python](https://github.com/sigvef/elma) - a library for manipulating Elasto Mania files
 - [Rust](https://github.com/hexjelly/elma-rust) - a library for dealing with levels, reading and writing replays
+- [recplayer](https://github.com/Maxdamantus/recplay) - level/replay interpreter/renderer in JS/canvas; used on recsource.tv
 
 ## Utilities
 - [Elmanager](https://gitlab.com/Smibu/elmanager) - a manager program written in C#, features include replay searching and viewing and a level editor
