@@ -1,5 +1,4 @@
-Awesome Elma [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-============
+# Awesome Elma [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/elmadev/awesome-elma.svg)](https://travis-ci.org/elmadev/awesome-elma) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A curated list of Elma community assets, projects, development resources, etc.
 
@@ -24,8 +23,13 @@ Format inspired by lists over at [sindresorhus/awesome](https://github.com/sindr
 - [Elma Center](https://chrome.google.com/webstore/detail/elma-center/dbdcieepogbmfdakjepkbhfifddinmjc) - EOL battle notifier (Chrome extension)
 
 ## Discord
+- [discord.me/elma](https://discord.me/elma) - the Discord server
 - [botman](https://github.com/elmadev/botman) - multi-purpose Discord chat bot
 - [musicman](https://github.com/elmadev/musicman) - the music playing Discord bot
 - [musicman autoplaylist](http://tinyurl.com/musicmanautoplaylist) - a collaborative Google Sheet listing songs for musicman to play when queue is empty
 - [Trello board](https://trello.com/b/WyGGKT38/elma-discord) - for management of development tasks, ideas, etc.
-- [Chat log](http://botman.us.to/chatlog) - searchable/sortable chat log
+
+## World Cups
+- [World Cup 7](http://wcup.site/) - WC7 website
+- [WCup Leader Stats](https://najs.li/wc7/) - WC7 leader stats
+- [World Cup 6](http://worldcup6.com/home) - WC6 website
