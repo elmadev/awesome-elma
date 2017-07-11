@@ -2,8 +2,6 @@
 
 A curated list of Elma community assets, projects, development resources, etc.
 
-Format inspired by lists over at [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-
 ## Community
 - [Elma Online](http://elmaonline.net/) - the website of the patch enabling online play of Elasto Mania
   - [Elma Online rewrite](https://github.com/elmadev/elmaonline-site) - A new open source version in the works
@@ -23,10 +21,10 @@ Format inspired by lists over at [sindresorhus/awesome](https://github.com/sindr
 - [Elma Center](https://chrome.google.com/webstore/detail/elma-center/dbdcieepogbmfdakjepkbhfifddinmjc) - EOL battle notifier (Chrome extension)
 
 ## Discord
-- [discord.me/elma](https://discord.me/elma) - the Discord server
+- [discord.me/elma](https://discordapp.com/invite/DGxqsz ) - the Discord server
 - [botman](https://github.com/elmadev/botman) - multi-purpose Discord chat bot
 - [musicman](https://github.com/elmadev/musicman) - the music playing Discord bot
-- [musicman autoplaylist](http://tinyurl.com/musicmanautoplaylist) - a collaborative Google Sheet listing songs for musicman to play when queue is empty
+- [tinyurl.com/musicmanautoplaylist](https://docs.google.com/spreadsheets/d/1czwIyx04WLtEDm9g5eo9xY7eoKmG8NkM3VnNP7QpKDY/edit?usp=sharing) - a collaborative Google Sheet listing songs for musicman to play when queue is empty
 - [Trello board](https://trello.com/b/WyGGKT38/elma-discord) - for management of development tasks, ideas, etc.
 
 ## World Cups
