@@ -6,7 +6,8 @@ A curated list of Elma community assets, projects, development resources, etc.
 - [Elma Online](http://elmaonline.net/) - the website of the patch enabling online play of Elasto Mania
   - [Elma Online rewrite](https://github.com/elmadev/elmaonline-site) - A new open source version in the works
 - [Mopolauta](http://mopolauta.moposite.com/) - the main discussion board
-- [recsource.tv](http://www.recsource.tv/) - the YouTube of replays
+- [recsource.tv](http://www.recsource.tv/) - the YouTube of replays (unmaintained, not fully functional)
+  - [recs.zamppe.com](http://recs.zamppe.com/) - an alternative replay site with working upload
 - [elmastats](http://stats.sshoyer.net/) - a statistics site
 
 ## Libraries
@@ -14,10 +15,11 @@ A curated list of Elma community assets, projects, development resources, etc.
 - [Python](https://github.com/sigvef/elma) - a library for manipulating Elasto Mania files
 - [Rust](https://github.com/hexjelly/elma-rust) - a library for dealing with levels, reading and writing replays
 - [recplayer](https://github.com/Maxdamantus/recplay) - level/replay interpreter/renderer in JS/canvas; used on recsource.tv
+- [Python (Across)](https://github.com/domi-id/across) - a library for manipulating Action SuperCross files
 
 ## Utilities
 - [Elmanager](https://gitlab.com/Smibu/elmanager) - a manager program written in C#, features include replay searching and viewing and a level editor
-- [YALE](http://janka.la/yale/) - a collaborative online level editor
+- [Programs and LGRs](http://elastomania.wixsite.com/-sla) - a collection of Elasto Mania utility programs and LGRs
 - [Elma Center](https://chrome.google.com/webstore/detail/elma-center/dbdcieepogbmfdakjepkbhfifddinmjc) - EOL battle notifier (Chrome extension)
 
 ## Discord
