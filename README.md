@@ -5,7 +5,7 @@ A curated list of Elma community assets, projects, development resources, etc.
 ## Community
 - [Elma Online](http://elmaonline.net/) - the website of the patch enabling online play of Elasto Mania
   - [Elma Online rewrite](https://github.com/elmadev/elmaonline-site) - A new open source version in the works
-- [Mopolauta](http://mopolauta.moposite.com/) - the main discussion board
+- [Mopolauta](https://mopolauta.moposite.com/) - the main discussion board
 - [recsource.tv](http://www.recsource.tv/) - the YouTube of replays (unmaintained, not fully functional)
   - [recs.zamppe.com](http://recs.zamppe.com/) - an alternative replay site with working upload
 - [elmastats](http://stats.sshoyer.net/) - a statistics site
@@ -13,7 +13,7 @@ A curated list of Elma community assets, projects, development resources, etc.
 ## Libraries
 - [Node.js](https://github.com/elmadev/node-elma) - a library for reading and writing Elasto Mania files
 - [Python](https://github.com/sigvef/elma) - a library for manipulating Elasto Mania files
-- [Rust](https://github.com/hexjelly/elma-rust) - a library for dealing with levels, reading and writing replays
+- [Rust](https://github.com/elmadev/elma-rust) - a library for dealing with levels, reading and writing replays
 - [recplayer](https://github.com/Maxdamantus/recplay) - level/replay interpreter/renderer in JS/canvas; used on recsource.tv
 - [Python (Across)](https://github.com/domi-id/across) - a library for manipulating Action SuperCross files
 
@@ -32,4 +32,3 @@ A curated list of Elma community assets, projects, development resources, etc.
 ## World Cups
 - [World Cup 7](http://wcup.site/) - WC7 website
 - [WCup Leader Stats](https://najs.li/wc7/) - WC7 leader stats
-- [World Cup 6](http://worldcup6.com/home) - WC6 website
