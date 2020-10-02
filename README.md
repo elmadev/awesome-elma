@@ -6,8 +6,7 @@ A curated list of Elma community assets, projects, development resources, etc.
 - [Elma Online](http://elmaonline.net/) - the website of the patch enabling online play of Elasto Mania
   - [Elma Online rewrite](https://github.com/elmadev/elmaonline-site) - A new open source version in the works
 - [Mopolauta](https://mopolauta.moposite.com/) - the main discussion board
-- [recsource.tv](http://www.recsource.tv/) - the YouTube of replays (unmaintained, not fully functional)
-  - [recs.zamppe.com](http://recs.zamppe.com/) - an alternative replay site with working upload
+- [recs.zamppe.com](http://recs.zamppe.com/) - a replay site with working upload
 - [elmastats](http://stats.sshoyer.net/) - a statistics site
 
 ## Libraries
