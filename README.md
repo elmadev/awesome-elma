@@ -3,7 +3,7 @@
 A curated list of Elma community assets, projects, development resources, etc.
 
 ## Community
-- [Elma Online](http://elmaonline.net/) - the website of the patch enabling online play of Elasto Mania
+- [Elma Online](https://elma.online/) - the website of the patch enabling online play of Elasto Mania
   - [Elma Online rewrite](https://github.com/elmadev/elmaonline-site) - A new open source version in the works
 - [Mopolauta](https://mopolauta.moposite.com/) - the main discussion board
 - [recs.zamppe.com](http://recs.zamppe.com/) - a replay site with working upload
@@ -29,5 +29,7 @@ A curated list of Elma community assets, projects, development resources, etc.
 - [Trello board](https://trello.com/b/WyGGKT38/elma-discord) - for management of development tasks, ideas, etc.
 
 ## World Cups
-- [World Cup 7](http://wcup.site/) - WC7 website
-- [WCup Leader Stats](https://najs.li/wc7/) - WC7 leader stats
+- [World Cup 8](http://wcup.site/) - WC8 website as of year 2020
+- [Cups](https://elma.online/cups) - Older World Cups and Other Cups
+
+
