@@ -10,7 +10,7 @@ A curated list of Elma community assets, projects, development resources, etc.
 - [elmastats](http://stats.sshoyer.net/) - a statistics site
 
 ## Libraries
-- [elmajs](https://github.com/elmadev/node-elma) - a library for reading and writing Elasto Mania files in JavaScript
+- [elmajs](https://github.com/elmadev/elmajs) - a library for reading and writing Elasto Mania files in JavaScript
 - [Elma Python Library](https://github.com/elmadev/elma-python) - a library for manipulating Elasto Mania files in Python
 - [elma-rust](https://github.com/elmadev/elma-rust) - a library for dealing with levels, reading and writing replays in Rust
 - [recplayer](https://github.com/Maxdamantus/recplay) - level/replay interpreter/renderer in JS/canvas; used on elma.online and recs.zamppe.com
