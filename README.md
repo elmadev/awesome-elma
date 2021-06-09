@@ -17,7 +17,7 @@ A curated list of Elma community assets, projects, development resources, etc.
 - [Action SuperCross Python Library](https://github.com/domi-id/across) - a library for manipulating Action SuperCross files with Python2
 
 ## Utilities
-- [Elmanager](https://gitlab.com/Smibu/elmanager) - a manager program written in C#, features include replay searching and viewing and a level editor
+- [Elmanager](https://github.com/Smibu/elmanager) - a manager program written in C#, features include replay searching and viewing and a level editor
 - [Programs and LGRs](http://elastomania.wixsite.com/-sla) - a collection of Elasto Mania utility programs and LGRs
 - [Elma Center](https://chrome.google.com/webstore/detail/elma-center/dbdcieepogbmfdakjepkbhfifddinmjc) - EOL battle notifier (Chrome extension)
 
